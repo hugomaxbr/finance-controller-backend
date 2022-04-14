@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) I'm just practicing API building with NestJS
+[Nest](https://github.com/nestjs/nest) Backend do app pra eu controlar as finança e parar de gastar com ifood
 
 ## Installation
 
